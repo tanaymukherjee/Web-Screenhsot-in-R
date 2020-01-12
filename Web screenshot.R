@@ -1,7 +1,7 @@
 # Install this package for the first time only
 # webshot::install_phantomjs()
 
-setwd ("T:\\Work\\People\\Pranav\\IBM CA\\Q3 '17\\July 17th - 31st\\Web screenshots\\try") 
+setwd ("T:\\Work\\Tanay\\Web screenshots\\Images") 
 library(webshot)
 
 
